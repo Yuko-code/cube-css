@@ -13,3 +13,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Resources and Credits
 - [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)
 - [A look at the CUBE CSS methodology in action by Kevin Powell](https://www.youtube.com/watch?v=NanhQvnvbR8)
+- [CUBE CSS](https://cube.fyi/#what-does-cube-css-stand-for)
+
